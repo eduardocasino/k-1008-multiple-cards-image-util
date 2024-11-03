@@ -1,0 +1,9 @@
+GIMP Palette
+Name: Grays_4
+
+# 2-bit  Grayscale palette 
+
+0 0 0 black
+85 85 85 gray1
+170 170 170 gray2
+255 255 255 white

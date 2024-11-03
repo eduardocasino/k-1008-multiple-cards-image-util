@@ -1,0 +1,21 @@
+GIMP Palette
+Name: Grays_16
+
+# 4-bit  Grayscale palette 
+
+0 0 0 black
+17 17 17 gray1
+34 34 34 gray2
+51 51 51 gray3
+68 68 68 gray4
+85 85 85 gray5
+102 102 102 gray6
+119 119 119 gray7
+136 136 136 gray8
+153 153 153 gray9
+170 170 170 gray10
+187 187 187 gray11
+204 204 204 gray12
+221 221 221 gray13
+238 238 238 gray14
+255 255 255 white
