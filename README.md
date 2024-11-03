@@ -4,6 +4,8 @@
 
 This utility converts GIMP images in C source code header format to a format suitable for display on a KIM-1 with one to four K-1008 cards as described in the ["Use of the K-1008 for grey scale display, app note #2"](http://retro.hansotten.nl/uploads/mtu/MTU%20App%20Note%20Gray%20Scale%20K-1008.pdf) document.
 
+© 2024 Eduardo Casino under the terms of the General Public License, Version 2. See the LICENSE file for details.
+
 ## Usage
 
 Prepare the image to be converted as described in the last section of this document. Maximum file size is 320x200 pixels.
